@@ -4,5 +4,5 @@ class CreateDogs < ActiveRecord::Migration[5.2]
 
   def down
   end
-  s
+  
 end
